@@ -24,7 +24,7 @@ This addon will provide subtitles for movies and series from the portal titlovi.
 
 ## How to use
 
-1. Open this URL: [https://subtitles.mooo.com/configuration](https://subtitles.mooo.com/configuration)
+1. Open this URL: [https://subtitles.mooo.com/configure](https://subtitles.mooo.com/configure)
 2. Enter your username and password that you use on the titlovi.com portal.
 3. Choose the languages that you want to show in Stremio.
 4. Click the Login button, and if everything is finished correctly, you will get a new screen with your unique Stremio addon URL and a button that you can click to install this addon.
