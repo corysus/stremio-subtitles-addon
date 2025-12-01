@@ -1,4 +1,4 @@
-# Stremio Subtitles Addon v3.0.0 (Community)
+# Stremio Subtitles Addon v3.1.0 (Community)
 
 ## Description
 
@@ -30,6 +30,11 @@ This addon will provide subtitles for movies and series from the portal titlovi.
 4. Click the Login button, and if everything is finished correctly, you will get a new screen with your unique Stremio addon URL and a button that you can click to install this addon.
 
 You can also install an addon by opening Stremio, then navigating to Addon settings, and then copying and pasting your unique URL inside the "Search addons" box.
+
+## Updates
+- 01.12.2025
+  - Updated code regarding API change to select proper session/episode for a series instead of fetching all subtitles for that series
+  - Added a new algorithm that will automatically sort subtitles based on the selected source on Stremio (where possible)
 
 ## Ideas/Bugs
 
